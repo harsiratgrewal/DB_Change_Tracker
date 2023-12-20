@@ -2,10 +2,10 @@
 source ~/.bash_profile
 
 
-SERVER="csi3660.database.windows.net"
-DATABASE="Project_Test"
-USERNAME="csi3660"
-PASSWORD="Linux3660"
+SERVER=""
+DATABASE=""
+USERNAME=""
+PASSWORD=""
 QUERY="$1"
 
 if [ "$#" -ne 1 ]; then
