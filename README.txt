@@ -9,18 +9,12 @@ Tracking changes in database tables and columns within specific time intervals. 
 4. Project PHP Script: This is the script for the web server. It displays text from the messages file that is updated by the Change Script. It uses a fetch message script to get the message.
 5. Fetch Message Script: This script fetches the messages inserted into the message text file by the Change Script.
 
-Here are the implemented 5 scripts:
-1. Cron Job Script
-2. Change Script
-3. SQL Connection Script
-4. PHP Web Server Script
-5. Fetch messages Script
 
 
 Working of Service
 Test Run: bash cron.sh AirlockChamber RecordTime 1 
 Tracking RecordTime column from AirlockChamber
- 
+
 
 
 Inserting a row to the AirlockChamber table
