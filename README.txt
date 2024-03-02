@@ -16,7 +16,7 @@ Working of Service
 Test Run: $ bash cron.sh AirlockChamber RecordTime 1
 
 Tracking RecordTime column from AirlockChamber
-![alt text](https://github.com/harsiratgrewal/DB_Change_Tracker/blob/main/images/Before.png)
+![Before](https://github.com/harsiratgrewal/DB_Change_Tracker/assets/102426868/8e50b705-e51d-4a57-9d74-a10cbd6efa06)
 
 
 Inserting a row to the AirlockChamber table
