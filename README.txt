@@ -12,9 +12,11 @@ Tracking changes in database tables and columns within specific time intervals. 
 
 
 Working of Service
-Test Run: bash cron.sh AirlockChamber RecordTime 1 
-Tracking RecordTime column from AirlockChamber
 
+Test Run: $ bash cron.sh AirlockChamber RecordTime 1
+
+Tracking RecordTime column from AirlockChamber
+![alt text](https://github.com/harsiratgrewal/DB_Change_Tracker/blob/images/Before.png?raw=true)
 
 
 Inserting a row to the AirlockChamber table
