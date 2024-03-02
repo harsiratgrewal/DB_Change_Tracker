@@ -10,11 +10,11 @@ Tracking changes in database tables and columns within specific time intervals. 
 5. Fetch Message Script: This script fetches the messages inserted into the message text file by the Change Script.
 
 Here are the implemented 5 scripts:
-1.	Cron Job Script
-2.	Change Script
-3.	SQL Connection Script
-4.	PHP Web Server Script
-5.	Fetch messages Script
+1. Cron Job Script
+2. Change Script
+3. SQL Connection Script
+4. PHP Web Server Script
+5. Fetch messages Script
 
 
 Working of Service
